@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ayesha%20Noushine&fontSize=50&fontAlignY=38&animation=fadeIn&fontName=Fira+Code" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ayesha%20Nousine&fontSize=50&fontAlignY=38&animation=fadeIn&fontName=Fira+Code" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Crafting+Elegant+Web+Solutions;Front-End+%26+Back-End+Expertise;Continuous+Learner" alt="Typing SVG" />
 
